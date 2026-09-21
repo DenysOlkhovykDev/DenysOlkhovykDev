@@ -1,6 +1,4 @@
-### Frontend / Fullstack Developer
-
-I build web applications with JavaScript, TypeScript and React.
+# Frontend / Fullstack Developer
 
 ## Tech Stack
 
