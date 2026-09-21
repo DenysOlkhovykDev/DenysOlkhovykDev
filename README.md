@@ -1,16 +1,27 @@
-## Hi there 👋
+### Frontend / Fullstack Developer
 
-<!--
-**DenysOlkhovykDev/DenysOlkhovykDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications with JavaScript, TypeScript and React.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+## Projects
+
+### Logic Gates Lab
+Interactive logic gates simulator built with React.
+
+### Shotantik
+A strategy game built with Pixi.js.
+
+## Currently learning
+
+- TypeScript
+- Next.js
+
+## Contact
+
+- GitHub: [DenysOlkhovykDev](https://github.com/DenysOlkhovykDev)
